@@ -4,12 +4,12 @@ using namespace std;
 
 void Menu()
 {
-	cout << "#>-------<EXERCISES>-------<# << endl";
-	cout << "|Topic: Git                 | << endl";
-	cout << "|         1 >---< 1         | << endl";
-	cout << "|         2 >---< 2         | << endl";
-	cout << "|         3 >---< 3         | << endl";
-	cout << "|                      /---<# << endl";
+	cout << "#>-------<EXERCISES>-------<#" << endl;
+	cout << "|Topic: Git                 |" << endl;
+	cout << "|         1 >---< 1         |" << endl;
+	cout << "|         2 >---< 2         |" << endl;
+	cout << "|         3 >---< 3         |" << endl;
+	cout << "|                      /---<#" << endl;
 	cout << "#>----------------Input -> ";
 }
 
