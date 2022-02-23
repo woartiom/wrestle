@@ -255,7 +255,6 @@ int main()
 			cout << "error";
 			break;
 		}
-
 		_getch();
 		system("cls");
 	}
